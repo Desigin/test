@@ -9,7 +9,7 @@
   "timestamp": "2022-06-01T00:00:00+00:00",
   "tokens": [
     {
-      "chainId": 1,
+      "chainId": 97,
       "address": "0x8deE8F32B8bfB86F5997a8c43dAd4e33b2CC7769",
       "name": "TetherUSD",
       "symbol": "USDT",
